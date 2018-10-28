@@ -17,12 +17,12 @@ and missed deadlines.
 the completion of tasks.
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+* Using GroupMe to communicate when there are issues
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+* By communicating properly we can address issues when some people's schedules are busy in order to help them
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
