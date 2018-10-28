@@ -13,7 +13,8 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+* We will use our shared Bulletin Board and To Do List on Trello to track progress on
+the completion of tasks.
 
 
 ## How will will communicate difficulties with a task assigned to us
