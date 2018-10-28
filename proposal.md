@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 06 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,13 +29,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A maintaince shop needs to be able to track the tools that its mechanics use. The shop needs to be able to keep track of multiple of the same type of tool and allow workers to check them in and out.
+
+A program that would help solve this organization problem would need to have a way to lookup, check in/out, insert, and remove tools. Since there are multiples of each type of tool there needs to be a way to keep track of how many of each item there are.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
-
+1. Name: Madison Mechanics Catalog
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
