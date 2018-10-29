@@ -40,11 +40,28 @@ A program that would help solve this organization problem would need to have a w
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+The program will produce search results that will show the status of a tool. The status will include how many items are in stock and a description of when the tool was checked out.
 
+*Example*
+tool: wrench
+number-in-stock: 7
+last checked out: 1:01 PM
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+The entire catalog needs to be added in order for the program to be able to provide useful results. It also requires users to input new items as the come in. It will also need to be able to take search inputs from the user. The users will also need to input data for items that need to be removed.
 
+*Examples*
+**search**
+item id:
+
+**insert**
+item id:
+description:
+
+**remove**
+item id:
+description:
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
