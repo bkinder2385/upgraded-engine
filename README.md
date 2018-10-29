@@ -11,10 +11,10 @@
        * GitHub username 2: mstoffel2       name 2: Megan Stoffel
        * GitHub username 3: dominicbourget  name 3: Dominic Bourget
        * GitHub username 4: bkinder2385     name 4: Brenna Kinder
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
+       * We completed the exercise on October 28th, 2018.
    * How long did it take your team to complete this exercise? 
-
+       * It took our team around one and a half hours to complete.
 ## Table of Contents
 
 1. README.md - overview of files in this repository (this file)
