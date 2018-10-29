@@ -72,7 +72,8 @@ This method would check in or out a tool.
 item id:  
   
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.  
+  
 Text menus would be best for this interface. A GUI would not give a further advantage.  
   
 Example:  
