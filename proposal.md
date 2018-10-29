@@ -43,32 +43,53 @@ A program that would help solve this organization problem would need to have a w
 The program will produce search results that will show the status of a tool. The status will include how many items are in stock and a description of when the tool was checked out.
 
 *Example*
-tool: wrench
-number-in-stock: 7
-last checked out: 1:01 PM
+tool: wrench  
+number-in-stock: 7 out of 10  
+last checked out: 1:01 PM  
+List of wrenches:  
+Wrench1    IN  
+Wrench2    OUT  
+... Continued  
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-The entire catalog needs to be added in order for the program to be able to provide useful results. It also requires users to input new items as the come in. It will also need to be able to take search inputs from the user. The users will also need to input data for items that need to be removed.
+The entire catalog needs to be added in order for the program to be able to provide useful results. It also requires users to input new items as they come in. It will also need to be able to take search inputs from the user. The users will also need to input data for items that need to be removed.
 
-*Examples*
-**search**
-item id:
-
-**insert**
-item id:
-description:
-
-**remove**
-item id:
-description:
+*Examples*  
+**search**  
+item id or name:  
+  
+**insert**  
+item id:  
+description:  
+  
+**remove**  
+item id:  
+description:  
+  
+**toggleInOut**  
+This method would check in or out a tool.  
+item id:  
+  
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+Text menus would be best for this interface. A GUI would not give a further advantage.  
+  
+Example:  
+5 Tools Checked Out  
+S to search  
+C to check in/out a tool  
+Search: Hammer  
+2 out of 3 Hammers available:  
+Hammer1    Out  
+Hammer2    IN  
+Hammer3    IN  
 
-
-
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+  
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.  
+ToolHashTable  
+ToolHashTableADT  
+Menu User Interface (Main.java)  
 
 
 Name each interface or class and briefly describe its function or purpose.
