@@ -93,11 +93,11 @@ ToolHashTableADT
 Menu User Interface (Main.java)  
 
 
-Name each interface or class and briefly describe its function or purpose.
-ToolHashTable - This is the class that implements the ToolHashTable ADT. 
-ToolHashTable ADT - This is the interface, which would include a get, insert, and remove method.
+Name each interface or class and briefly describe its function or purpose.  
+ToolHashTable - This is the class that implements the ToolHashTable ADT.   
+ToolHashTable ADT - This is the interface, which would include a get, insert, checkIn/Out, and remove method.  
 Menu User Interface - The main method that displays the text menu for the users, as well as prompts for input, such as 
-the type of tool to be checked out or in.
+the type of tool to be checked out or in.  
 
 ## Edit and Submit this file and any figures referenced by this document.
 
